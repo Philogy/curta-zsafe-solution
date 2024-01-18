@@ -1,0 +1,13 @@
+{
+  "name": "jazzy-curta-solution",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Philippe Dumonet <philippe@dumo.net>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "@openzeppelin/contracts-upgradeable": "^5.0.1",
+    "solady": "^0.0.161"
+  }
+}
